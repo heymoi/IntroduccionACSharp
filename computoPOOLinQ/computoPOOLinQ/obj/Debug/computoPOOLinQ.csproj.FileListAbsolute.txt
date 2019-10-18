@@ -1,0 +1,10 @@
+C:\Users\Rmoi\Documents\RaulMarquez-VS\computoPOOLinQ\computoPOOLinQ\bin\Debug\computoPOOLinQ.exe.config
+C:\Users\Rmoi\Documents\RaulMarquez-VS\computoPOOLinQ\computoPOOLinQ\bin\Debug\computoPOOLinQ.exe
+C:\Users\Rmoi\Documents\RaulMarquez-VS\computoPOOLinQ\computoPOOLinQ\bin\Debug\computoPOOLinQ.pdb
+C:\Users\Rmoi\Documents\RaulMarquez-VS\computoPOOLinQ\computoPOOLinQ\obj\Debug\computoPOOLinQ.csprojAssemblyReference.cache
+C:\Users\Rmoi\Documents\RaulMarquez-VS\computoPOOLinQ\computoPOOLinQ\obj\Debug\computoPOOLinQ.Form1.resources
+C:\Users\Rmoi\Documents\RaulMarquez-VS\computoPOOLinQ\computoPOOLinQ\obj\Debug\computoPOOLinQ.Properties.Resources.resources
+C:\Users\Rmoi\Documents\RaulMarquez-VS\computoPOOLinQ\computoPOOLinQ\obj\Debug\computoPOOLinQ.csproj.GenerateResource.cache
+C:\Users\Rmoi\Documents\RaulMarquez-VS\computoPOOLinQ\computoPOOLinQ\obj\Debug\computoPOOLinQ.csproj.CoreCompileInputs.cache
+C:\Users\Rmoi\Documents\RaulMarquez-VS\computoPOOLinQ\computoPOOLinQ\obj\Debug\computoPOOLinQ.exe
+C:\Users\Rmoi\Documents\RaulMarquez-VS\computoPOOLinQ\computoPOOLinQ\obj\Debug\computoPOOLinQ.pdb
