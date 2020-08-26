@@ -1,0 +1,7 @@
+E:\MyCourses\CSharp\Projects\TiendaInformatica\TiendaInformatica\bin\Debug\TiendaInformatica.exe.config
+E:\MyCourses\CSharp\Projects\TiendaInformatica\TiendaInformatica\bin\Debug\TiendaInformatica.exe
+E:\MyCourses\CSharp\Projects\TiendaInformatica\TiendaInformatica\bin\Debug\TiendaInformatica.pdb
+E:\MyCourses\CSharp\Projects\TiendaInformatica\TiendaInformatica\obj\Debug\TiendaInformatica.csprojAssemblyReference.cache
+E:\MyCourses\CSharp\Projects\TiendaInformatica\TiendaInformatica\obj\Debug\TiendaInformatica.csproj.CoreCompileInputs.cache
+E:\MyCourses\CSharp\Projects\TiendaInformatica\TiendaInformatica\obj\Debug\TiendaInformatica.exe
+E:\MyCourses\CSharp\Projects\TiendaInformatica\TiendaInformatica\obj\Debug\TiendaInformatica.pdb
